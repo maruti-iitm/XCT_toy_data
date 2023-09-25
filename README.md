@@ -1,6 +1,6 @@
 # XCT_toy_data
 
-1. XCT data analysis using Fiji, an open-source image segmentation software.
+1. XCT data analysis using Fiji, an open-source image segmentation software. \
 Please see XCT_tutorial_Fiji.pptx
 
 2. Simple XCT toy data analysis using CV
