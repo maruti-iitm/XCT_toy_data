@@ -2,7 +2,7 @@
 
 Step-1. XCT data analysis using Fiji, an open-source image segmentation software. \
 Please see XCT_tutorial_Fiji.pptx \
-Dataset for this Fiji-based analysis is available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8377889.svg)](https://doi.org/10.5281/zenodo.8377889)\
+Dataset for this Fiji-based analysis is available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8377888.svg)](https://doi.org/10.5281/zenodo.8377888)\
 Fiji software can be download: [Fiji](https://imagej.net/software/fiji/downloads)
 
 Step-2: Download ParaView software for visualization: [Viz software download](https://www.paraview.org/download/)
